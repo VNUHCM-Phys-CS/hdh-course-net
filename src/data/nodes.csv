@@ -1,0 +1,126 @@
+﻿id,NAME,YEAR,REQUIRE,CATEGORY,TERM
+1,Pháp luật đại cương,1,1,Đại cương,1
+2,Hóa đại cương 1,1,1,Đại cương,1
+3,Vi tích phân 1B,1,1,Đại cương,1
+4,Thực hành vi tích phân 1B,1,0,Đại cương,1
+5,Vật lý đại cương 1 (Cơ-nhiệt),1,1,Đại cương,1
+6,Giới thiệu ngành Hải dương,1,1,Cơ sở ngành,1
+7,Anh văn 1,1,2,Đại cương,1
+8,Tin học cơ sở,1,2,Đại cương,1
+9,Thể dục 1,1,2,Đại cương,1
+10,Triết học Mác - Lênin,1,1,Đại cương,2
+11,Kinh tế chính trị Mác - Lênin,1,1,Đại cương,2
+12,Sinh đại cương 1,1,0,Đại cương,2
+13,Sinh đại cương 2,1,0,Đại cương,2
+14,Vi tích phân 2B,1,1,Đại cương,2
+15,Thực hành Vi tích phân 2B,1,0,Đại cương,2
+16,Đại số tuyến tính,1,1,Đại cương,2
+17,Vật lý đại cương 2 (Điện từ-Quang),1,1,Đại cương,2
+18,Lập trình ứng dụng,1,1,Cơ sở ngành,2
+19,Anh văn 2,1,2,Đại cương,2
+20,Thể dục 2,1,2,Đại cương,2
+21,Chủ nghĩa xã hội khoa học,2,1,Đại cương,1
+22,Lịch sử Đảng Cộng sản Việt Nam,2,1,Đại cương,1
+23,Tư tưởng Hồ Chí Minh,2,1,Đại cương,1
+24,Xác suất thống kê,2,1,Đại cương,1
+25,Hóa đại cương 2,2,1,Đại cương,1
+26,Kinh tế đại cương,2,0,Đại cương,1
+27,Phương pháp luận sáng tạo,2,0,Đại cương,1
+28,Tâm lý đại cương,2,0,Đại cương,1
+29,Môi trường đại cương,2,1,Đại cương,1
+30,Phương pháp tính,2,1,Cơ sở ngành,1
+31,Hàm phức,2,1,Đại cương,1
+32,Anh văn 3,2,2,Đại cương,1
+33,Giáo dục quốc phòng,2,2,Đại cương,1
+34,Thực hành Vật lý ĐC,2,1,Đại cương,2
+35,Các phương pháp toán lý,2,1,Cơ sở ngành,2
+36,Cơ chất lỏng,2,1,Cơ sở ngành,2
+37,Hải dương học đại cương,2,1,Cơ sở ngành,2
+38,Khí tượng học đại cương,2,1,Cơ sở ngành,2
+39,Thủy văn học đại cương,2,1,Cơ sở ngành,2
+40,Đo đạc và phân tích số liệu ngẫu nhiên,2,1,Cơ sở ngành,2
+41,Anh văn 4,2,2,Đại cương,2
+42,Thiên văn học đại cương,3,1,Cơ sở ngành,1
+43,Nhập môn Tương tác đại dương - khí quyển,3,1,Cơ sở ngành,1
+44,Động lực học lưu chất địa vật lý,3,1,Cơ sở ngành,1
+45,Mô hình số của các dòng địa vật lý,3,1,Cơ sở ngành,1
+46,Viễn thám và GIS,3,1,Cơ sở ngành,1
+47,"Thực tập thực tế HD, KT & TV",3,1,Cơ sở ngành,1
+48,Các phương pháp khai thác dữ liệu 1,3,0,Cơ sở ngành,1
+49,Khai thác dữ liệu trong khoa học Trái Đất,3,1,Cơ sở ngành,1
+50,Địa lý học tự nhiên,3,0,Chuyên ngành,1
+51,Chu trình sinh địa hóa,3,0,Chuyên ngành,1
+52,Cơ sở địa mạo địa chất biển,3,0,Chuyên ngành HD,1
+53,Nhiệt động lực học khí quyển,3,1,Chuyên ngành KT,1
+54,Động lực học sông ngòi,3,1,Chuyên ngành TV,1
+55,Ô nhiễm môi trường,3,1,Cơ sở ngành,2
+56,Hải lưu,3,1,Chuyên ngành HD,2
+57,Cơ học sóng nước,3,1,Chuyên ngành HD,2
+58,Thủy triều,3,1,Chuyên ngành HD,2
+59,Hải dương học thực hành,3,1,Chuyên ngành HD,2
+60,Cửa sông đại cương,3,0,Chuyên ngành HD,2
+61,Các chuyên đề hải dương,3,0,Chuyên ngành HD,2
+62,Vật lý biển,3,0,Chuyên ngành HD,2
+63,Sóng mặt đại dương,3,0,Chuyên ngành HD,2
+64,"Quản lý và phân tích dữ liệu hải dương, khí tượng và thủy văn",3,0,Chuyên ngành,2
+65,Khí tượng động lực,3,1,Chuyên ngành KT,2
+66,Khí tượng synop,3,1,Chuyên ngành KT,2
+67,Khí tượng thực hành,3,1,Chuyên ngành KT,2
+68,Khí hậu học và khí hậu Việt Nam,3,0,Chuyên ngành KT,2
+69,Các chuyên đề khí tượng,3,0,Chuyên ngành KT,2
+70,Khí tượng lớp biên,3,0,Chuyên ngành KT,2
+71,Thủy văn lưu vực,3,1,Chuyên ngành TV,2
+72,Thủy văn thực hành,3,1,Chuyên ngành TV,2
+73,Sinh thái thủy văn vùng cửa sông,3,1,Chuyên ngành TV,2
+74,Thủy lực,3,0,Chuyên ngành TV,2
+75,Các chuyên đề thủy văn,3,0,Chuyên ngành TV,2
+76,"Địa lý, địa chất thủy văn",3,0,Chuyên ngành TV,2
+77,Thủy văn nông nghiệp và đô thị,3,0,Chuyên ngành TV,2
+78,Động lực học môi trường biển,3,1,Chuyên ngành HDKTTV,2
+79,Động lực học môi trường khí quyển,3,1,Chuyên ngành HDKTTV,2
+80,Thực tập thực tế chuyên ngành,3,1,Chuyên ngành HDKTTV,2
+81,Các quá trình vùng ven bờ,3,0,Chuyên ngành HDKTTV,2
+82,Động lực học sinh thái thủy - hải văn vùng ven bờ,3,0,Chuyên ngành HDKTTV,2
+83,"Các chuyên đề hải dương, khí tượng và thủy văn",3,0,Chuyên ngành HDKTTV,2
+84,Các quá trình ven bờ vùng Đồng bằng sông Cửu Long,3,0,Chuyên ngành HDKTTV,2
+85,Các quá trình sinh địa hóa trong đại dương,3,0,Chuyên ngành HDKTTV,2
+86,Các chuyên đề trong Khoa học Trái đất và Môi trường,3,0,Chuyên ngành HDKTTV,2
+87,Các công cụ mô hình hóa trong hải dương,4,0,Chuyên ngành HD,1
+88,Vận chuyển trầm tích,4,0,Chuyên ngành HD,1
+89,Hóa học biển,4,0,Chuyên ngành HD,1
+90,Sinh thái biển,4,0,Chuyên ngành HD,1
+91,Hải dương học Biển Đông,4,0,Chuyên ngành HD,1
+92,Quản lý biển - Kinh tế biển,4,0,Chuyên ngành HD,1
+93,Tài nguyên môi trường biển và biến đổi khí hậu,4,0,Chuyên ngành HD,1
+94,Các phương pháp khai thác dữ liệu 2,4,0,Chuyên ngành HD,1
+95,Các công cụ mô hình hóa trong khí tượng,4,0,Chuyên ngành KT,1
+96,Dự báo số trị,4,0,Chuyên ngành KT,1
+97,Khí hậu nông nghiệp,4,0,Chuyên ngành KT,1
+98,Khí tượng hàng không,4,0,Chuyên ngành KT,1
+99,Khí tượng nhiệt đới,4,0,Chuyên ngành KT,1
+100,Dự báo thời tiết bằng phương pháp số,4,0,Chuyên ngành KT,1
+101,Khí hậu đại dương và tương tác biển khí,4,0,Chuyên ngành KT,1
+102,Vi khí hậu,4,0,Chuyên ngành KT,1
+103,Các phương pháp thống kê trong khí hậu,4,0,Chuyên ngành KT,1
+104,Đối lưu khí quyển,4,0,Chuyên ngành KT,1
+105,Các công cụ mô hình hóa trong thủy văn,4,0,Chuyên ngành TV,1
+106,Tính toán thủy văn,4,0,Chuyên ngành TV,1
+107,Dự báo thủy văn,4,0,Chuyên ngành TV,1
+108,"Mô hình thủy văn, thủy lực",4,0,Chuyên ngành TV,1
+109,Đo đạc thủy văn,4,0,Chuyên ngành TV,1
+110,Thủy văn môi trường,4,0,Chuyên ngành TV,1
+111,Chỉnh trị sông,4,0,Chuyên ngành TV,1
+112,Quản lý tài nguyên nước,4,0,Chuyên ngành TV,1
+113,Các công cụ mô hình hóa,4,0,Chuyên ngành HDKTTV,1
+114,Dự báo khí tượng,4,0,Chuyên ngành HDKTTV,1
+115,Các chuyên đề tai biến thiên nhiên và đánh giá tác động môi trường,4,0,Chuyên ngành HDKTTV,1
+116,Khai thác dữ liệu nâng cao và ứng dụng,4,0,Chuyên ngành HDKTTV,1
+117,Ứng dụng công nghệ tiên tiến trong khí tượng nông nghiệp,4,0,Chuyên ngành HDKTTV,1
+118,Thách thức toàn cầu trong quản lý tổng hợp đới bờ ,4,0,Chuyên ngành HDKTTV,1
+119,Các mô hình thủy động lực ứng dụng trong Khoa học Trái đất ,4,0,Chuyên ngành HDKTTV,1
+120,Dự báo thời tiết và mô hình khí quyển,4,0,Chuyên ngành HDKTTV,1
+121,Các chuyên đề tương tác đại dương - khí quyển,4,0,Chuyên ngành,2
+122,Xử lý số liệu khí tượng và dự báo thời tiết bằng phương pháp thống kê vật lý,4,0,Chuyên ngành,2
+123,Quản lý tổng hợp đới bờ,4,0,Chuyên ngành,2
+124,Khóa luận tốt nghiệp,4,1,Tốt nghiệp,2
+125,Đồ án tốt nghiệp,4,1,Tốt nghiệp,2
